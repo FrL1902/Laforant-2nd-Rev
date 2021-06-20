@@ -1,0 +1,28 @@
+@media(max-width: 1000px){
+
+    .image-slider-Protector img.current1{
+        width: 80%;
+    }
+
+    .image-slider-Attacker img.current2{
+        width: 80%;
+    }
+
+    .Content{
+        margin-top: +20%;
+    }
+
+    .bottom{
+        margin-left: auto;
+    }
+
+    .header-left{
+        margin-right: 20%;
+    }
+}
+
+@media(max-width: 1200px){
+    .header-left{
+       justify-content: flex-end;
+    }
+}

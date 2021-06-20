@@ -1,0 +1,83 @@
+===================================================================
+Introduction
+===================================================================
+Welcome to LaForant
+A Spin-Off 4 V.S 4 Player Competitive FPS game
+It is a strategy tactical shooter game
+
+
+A War Beetwen the Protector and the Attacker
+The Secret Recipe can bring glory to its owner
+Steal Or Defend the Recipe to Win
+Devise your Strategy
+Encounter the Enemy
+Bring Glory To Your Faction
+Within the Time Limit
+
+===================================================================
+How To Play
+===================================================================
+Chef Selection
+==============
+1. Pick Your Chef
+2. Set Their Equipment to your liking
+
+Prep Time
+==============
+Protector:
+1. Set Traps, Reinforce wall, and baricade the door
+2. Destroy Enemy Scout Drones
+
+Attacker:
+1. Scout and Find Your Objective
+2. Find Your Enemy Location using your utilities
+
+Invasion Time
+==============
+Protector:
+Defend Your Objective until the time runs out
+or
+Eliminate Your Enemy To Win
+
+Attacker:
+Steal the objective and bring it to the Extraction point
+or
+Eliminate the enemies within the time limit To Win
+
+//Note :  Be Careful to not to kill your own allies
+
+===================================================================
+Maps
+===================================================================
+The Compound
+===============
+A Secret Base Located In Middle of Giant Forest with a dark surrounding
+Your Field of View will be limited due the lack of light
+
+"Set your eyes and focus yourself
+They are everywhere"
+
+Capitale
+===============
+The very base of your enemy
+With lots of hiding place
+Careful with your steps
+Every sound you made is amplified
+Confuse your enemy with sounds
+
+===================================================================
+Operators
+===================================================================
+Protector:
+================
+Marksman : Supplied with limited special bullet to down enemy in 1 shot
+Assasin : set traps and flank enemies with your hiding skill
+Jammer : Disturb any your enemy gadget
+Support : Support your allies by healing them
+
+Attacker:
+================
+Breacher : Surprise your enemy by destroying enemy walls with ease
+Flanker : Corner your enemies with your superior mobility
+Bomber : Easily take out large amount of enemies with your grenades
+Tank : Be the first to charge in and shield your enemies
